@@ -1,0 +1,16 @@
+.square {
+    width: 20px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #db4444; /* Red square */
+    margin-right: 16px; /* Space between square and text */
+}
+.BrowseText {
+    font-size: 36px;
+    font-weight: bold;
+}
+.CategoryText {
+    font-size: 16px;
+    font-weight: bold;
+    color: #db4444; /* Applied the color #db4444 */
+}

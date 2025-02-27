@@ -1,0 +1,14 @@
+.customButton {
+    background-color: #db4444; /* Background color */
+    color: white; /* Text color */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Add some padding */
+    border-radius: 5px; /* Round the corners */
+    cursor: pointer; /* Change cursor on hover */
+    transition: background-color 0.3s; /* Smooth transition */
+    width: 100px;
+}
+
+.customButton:hover {
+    background-color: #a83232; /* Darker shade on hover */
+}
